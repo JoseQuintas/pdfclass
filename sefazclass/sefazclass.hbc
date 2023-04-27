@@ -1,0 +1,8 @@
+#
+# sefazclass.hbc
+#
+
+incpaths=include
+{!hblib}libs=hbhpdf.hbc hbzebra.hbc hbwin.hbc
+{!hblib}libs=sefazclass
+libpaths=../lib
