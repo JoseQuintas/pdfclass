@@ -1,0 +1,14 @@
+source/ze_pdfclass.prg
+
+-w3
+-es2
+-m
+-n
+-q
+
+-o../lib/pdfclass
+
+pdfclass.hbc
+
+-hblib
+-hbx=../lib/pdfclass.hbx
