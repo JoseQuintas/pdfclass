@@ -6,9 +6,9 @@ source/ze_pdfclass.prg
 -n
 -q
 
--o../lib/pdfclass
+-olib/pdfclass
 
 pdfclass.hbc
 
 -hblib
--hbx=../lib/pdfclass.hbx
+-hbx=lib/pdfclass.hbx
